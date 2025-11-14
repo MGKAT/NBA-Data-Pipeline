@@ -16,7 +16,7 @@ Il couvre :
 ➡️ Le tout en suivant une logique Data Engineering propre et modulaire.
 
 📂 Architecture du projet
-'''
+```
 NBA-Data-Pipeline/
 │
 ├── data/
@@ -38,7 +38,7 @@ NBA-Data-Pipeline/
 │   └── app.py          # application Streamlit
 │
 └── README.md
-'''
+```
 
  Pipeline complet
 1️- Ingestion (scripts/ingest.py)
@@ -159,3 +159,4 @@ Klein
 Étudiant en Data Science & IA
 
 Projet GitHub — NBA Data Pipeline
+
