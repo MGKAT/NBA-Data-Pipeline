@@ -1,0 +1,38 @@
+{
+  "best_attacks": {
+    "Indiana Pacers": 233.14455364455364,
+    "Milwaukee Bucks": 232.50308751229105,
+    "Atlanta Hawks": 231.48737067958277,
+    "Sacramento Kings": 230.60779554540264,
+    "Denver Nuggets": 230.0478675136116,
+    "Utah Jazz": 229.31730769230768,
+    "Boston Celtics": 229.2851414025177,
+    "Golden State Warriors": 228.89052258548526,
+    "Memphis Grizzlies": 228.6982952578747,
+    "Phoenix Suns": 228.16511904761904
+  },
+  "best_defenses": {
+    "Boston Celtics": 215.80963838616313,
+    "Miami Heat": 216.08348205809762,
+    "New York Knicks": 217.58235906470213,
+    "Cleveland Cavaliers": 218.09262428151465,
+    "LA Clippers": 219.92129514321294,
+    "Orlando Magic": 220.60679611650485,
+    "Philadelphia 76ers": 220.66391867600572,
+    "Dallas Mavericks": 222.6628225486304,
+    "Phoenix Suns": 222.78527777777776,
+    "Golden State Warriors": 223.26847409776514
+  },
+  "wins": {
+    "Boston Celtics": 2544,
+    "Denver Nuggets": 2320,
+    "Milwaukee Bucks": 2232,
+    "Phoenix Suns": 2176,
+    "Golden State Warriors": 2064,
+    "LA Clippers": 2000,
+    "New York Knicks": 2000,
+    "Miami Heat": 1976,
+    "Dallas Mavericks": 1976,
+    "Philadelphia 76ers": 1968
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "total_valid": 5,
+  "error_counts": {
+    "invalid_schema": 12,
+    "same_team": 0
+  }
+}
