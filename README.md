@@ -1,9 +1,12 @@
 ﻿🏀 NBA Data Pipeline & Analytics Dashboard
 
 Un pipeline complet : ingestion → validation → transformation → analyse → dashboard Streamlit.
+
 Introduction
 
 Ce projet construit un pipeline de données complet à partir de l’API BallDontLie pour analyser les performances NBA entre 2020 et 2024.
+
+[Voir le dashboard Streamlit](https://nba-data-pipeline-4pr.streamlit.app/)
 
 Il couvre :
 
@@ -159,4 +162,5 @@ Klein
 Étudiant en Data Science & IA
 
 Projet GitHub — NBA Data Pipeline
+
 
